@@ -1,0 +1,12 @@
+{
+    "ID":"a86282f6a52942c48dbdc6f1fc653125",
+    "ActionKeyword":"dym",
+    "Name":"Google suggest (did you mean?)",
+    "Description":"Get suggestions from Google",
+    "Author":"DBremen",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/DBremen/Wox.Plugins.GoogleSuggest",
+    "IcoPath":"icons\\spell.png",
+    "ExecuteFileName":"main.py"
+}
